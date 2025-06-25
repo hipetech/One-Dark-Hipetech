@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-hipetech",
+  "displayName": "One Dark Hipetech",
+  "description": "Personal preset for one dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Hipetech",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro-mix.json"
+      }
+    ]
+  }
+}
