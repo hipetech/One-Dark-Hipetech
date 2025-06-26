@@ -236,7 +236,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -647,8 +647,15 @@
       }
     },
     {
+      "name": "JSX Component",
+      "scope": "support.class",
+      "settings": {
+        "foreground": "#28bda4"
+      }
+    },
+    {
       "name": "Classes",
-      "scope": "support.class, entity.name.type.class",
+      "scope": "entity.name.type.class",
       "settings": {
         "foreground": "#e5c07b"
       }
